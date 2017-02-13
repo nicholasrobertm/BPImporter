@@ -1,0 +1,3 @@
+id,name,typeCode,typeDescription,address/addressId,address/customerId,address/company,address/streetAddress,address/postcode,address/countryId,address/countryIsoCode2,address/city,address/state
+2,Main warehouse,warehouse,Warehouse,185,0,Test-Test,Test Company Address 1,none,223,US
+4,Test,warehouse,Warehouse,124,0,,123gsdfg,90201,223,US,test,ttesttsst

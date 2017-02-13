@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 class Menu
   require 'handlers/request_handler'
   require 'handlers/request_method_handler'
